@@ -1,7 +1,7 @@
 
 # Profile
 
-Hi I'm xiaoRui,
+Hi, I'm xiaoRui,
 
 You can see me below:
 
