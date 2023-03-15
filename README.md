@@ -19,4 +19,5 @@ Here is my contact information:
 
 Or use WeChat to scan the following pictures:
 
+![weChat](https://github.com/xiaorui-23/xiaorui-23/blob/master/Wechat.jpeg)
 
