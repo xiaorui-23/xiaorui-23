@@ -1,7 +1,16 @@
 
-# Profile
 
 Hi, I'm xiaoRui,
+
+# Project introduction
+
+- [o-light](https://github.com/xiaorui-23/o-light): 一个基于 `web components` 的跨框架/库（vue、react等）、无框架的高亮划词组件。
+- [study-three.js](https://github.com/xiaorui-23/study-three.js): 一个 收录学习 `three.js` 的仓库。
+
+
+
+
+# How to contact me
 
 You can see me below:
 
@@ -21,7 +30,3 @@ Here is my contact information:
 Or use WeChat to scan the following pictures:
 
 <img src="https://github.com/xiaorui-23/xiaorui-23/blob/master/Wechat.jpeg" width="200" height="273"></img>
-
-# Project introduction
-
-- [o-light](https://github.com/xiaorui-23/o-light): 一个基于 web components`的跨框架/库（vue、react等）、无框架的高亮划词组件.
