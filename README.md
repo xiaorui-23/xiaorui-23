@@ -1,6 +1,6 @@
 
 
-Hi, I'm xiaoRui,
+Hi, I'm xiaoRui.
 
 # Project introduction
 
