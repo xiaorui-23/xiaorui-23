@@ -8,7 +8,7 @@ You can see me below:
 - [稀土掘金](https://juejin.cn/user/1196739061361437)
 - [Gitee](https://gitee.com/xiaorui-23)
 - [Github](https://github.com/xiaorui-23)
-- 微信 @ 桃小瑞
+- 微信公众号 @ 桃小瑞
 - [知乎](https://www.zhihu.com/people/74-84-16-57)
 - [Csdn](https://blog.csdn.net/qq_44500360)
 
