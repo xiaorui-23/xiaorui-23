@@ -6,6 +6,7 @@ Hi, I'm xiaoRui.
 
 - [o-light](https://github.com/xiaorui-23/o-light): 一个基于 `web components` 的跨框架/库（`vue`、`react`等）、`无框架`的`高亮划词组件`。
 - [study-three.js](https://github.com/xiaorui-23/study-three.js): 一个 收录学习 `three.js` 的仓库。
+- [nupp](https://github.com/xiaorui-23/nupp): 一款由 typescript 编写的 数字转(汉字/大写)的 js 工具库。 
 
 
 
