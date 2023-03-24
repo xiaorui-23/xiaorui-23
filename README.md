@@ -8,7 +8,9 @@ Hi, I'm xiaoRui.
 - [study-three.js](https://github.com/xiaorui-23/study-three.js): 一个 收录学习 `three.js` 的仓库。
 - [nupp](https://github.com/xiaorui-23/nupp): 一款由 typescript 编写的 数字转(汉字/大写)的 js 工具库。 
 
+# Github Status
 
+![](https://github-readme-activity-graph.cyclic.app/graph?username=xiaorui-23&theme=github)
 
 # Active place
 
