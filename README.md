@@ -10,7 +10,8 @@ Hi, I'm xiaoRui.
 
 # Github Status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=xiaorui-23&theme=github)
+![](https://camo.githubusercontent.com/d918dd995a540eb1920c0a74f033a6a51ee0a65c51f9b369a15f8da2cda62b31/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e6379636c69632e6170702f67726170683f757365726e616d653d7869616f7275692d3233267468656d653d676974687562)
+<!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=xiaorui-23&theme=github) -->
 
 # Active place
 
