@@ -23,6 +23,7 @@ You can see me in the following places:
 - [微信公众号 @ 桃小瑞]()
 - [知乎](https://www.zhihu.com/people/74-84-16-57)
 - [CSDN](https://blog.csdn.net/qq_44500360)
+- [stack overflow](https://stackoverflow.com/users/21500078/xiao-rui)
 
 # contact me
 
