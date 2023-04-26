@@ -27,7 +27,7 @@ You can see me in the following places:
 - CSDN: [https://blog.csdn.net/qq_44500360](https://blog.csdn.net/qq_44500360)
 - stack overflow: [https://stackoverflow.com/users/21500078/xiao-rui](https://stackoverflow.com/users/21500078/xiao-rui)
 
-# contact me
+# Contact me
 
 You can contact me in the following ways:
 
@@ -43,4 +43,4 @@ Or use WeChat to scan the following pictures.
 
 When adding friends, please note the adding channel and explain the purpose so that I can quickly pass through.
 
-<img src="https://github.com/xiaorui-23/xiaorui-23/blob/master/Wechat.jpeg" width="200" height="273"></img>
+<img src="https://github.com/xiaorui-23/xiaorui-23/blob/master/Wechat.jpeg" width="300" height="373"></img>
