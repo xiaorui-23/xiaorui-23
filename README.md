@@ -1,7 +1,7 @@
 
 # Profile
 
-Hi, I'm xiaoRui. A migrant worker in a new first-tier city👷.
+Hi, I'm xiaoRui. A code farmer worker in a new first-tier city👷.
 
 # Project introduction
 
