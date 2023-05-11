@@ -39,8 +39,3 @@ You can contact me by following my official account through WeChat scanning.
 
 <img src="https://raw.githubusercontent.com/xiaorui-23/xiaorui-23/master/WeChatOfficialAccount.jpg" width="300" height="300" />
 
-Or use WeChat to scan the following pictures.
-
-When adding friends, please note the adding channel and explain the purpose so that I can quickly pass through.
-
-<img src="https://github.com/xiaorui-23/xiaorui-23/blob/master/Wechat.jpeg" width="300" height="373"></img>
