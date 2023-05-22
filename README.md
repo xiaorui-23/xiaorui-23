@@ -1,5 +1,5 @@
 
-# Profile
+# Hi, I'm Xiao Rui. 🙋👋
 
 Hi, I'm Xiao Rui. A code farmer worker in a new first-tier city👷.
 
@@ -39,3 +39,7 @@ You can contact me by following my official account through WeChat scanning.
 
 <img src="https://raw.githubusercontent.com/xiaorui-23/xiaorui-23/master/WeChatOfficialAccount.jpg" width="300" height="300" />
 
+# 
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaorui-23&layout=compact&langs_count=6&hide=smali)
+![](https://github-readme-stats-ouuan.vercel.app/api?username=xiaorui-23&theme=ligit&show_icons=true)
