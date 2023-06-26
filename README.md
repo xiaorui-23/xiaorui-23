@@ -8,7 +8,7 @@ Hi, I'm Xiao Rui. A code farmer worker in a new first-tier city👷.
 - [ohlight](https://github.com/xiaorui-23/ohlight): 一个基于 `web components` 的跨框架/库（`vue`、`react`等）、`无框架`的`高亮划词组件`。
 - [study-three.js](https://github.com/xiaorui-23/study-three.js): 一个 收录学习 `three.js` 的仓库。
 - [nupp](https://github.com/xiaorui-23/nupp): 一款由 typescript 编写的 数字转(汉字/大写)的 js 工具库。 
-- [chat_flutter](https://github.com/xiaorui-23/flutter_chat.git): 这是一个纯 `dart` 开发的开发的 聊天记录 列表展示的组件包，支持图片、文件、语音、文字的基础内容展示。
+- [chat_flutter](https://github.com/xiaorui-23/flutter_chat.git): 这是一个纯 `dart` 开发的开发的 聊天记录 列表展示的组件包，支持图片、文件、语音、文字、视频的基础内容展示。
 
 # Github Status
 
