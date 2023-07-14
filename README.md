@@ -1,5 +1,5 @@
 
-# Hi, I'm Xiao Rui. 🙋👋
+# Hi, I'm Xiaorui(桃小瑞). 🙋👋
 
 Hi, I'm Xiao Rui. A code farmer worker in a new first-tier city👷.
 
